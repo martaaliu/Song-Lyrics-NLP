@@ -3,9 +3,9 @@
 
 ### This project is split into 4 parts:
 <br/>
-#### 1. Import all the necessary packages.
+### 1. Import all the necessary packages.
 <br/><br/>
-#### 2. Obtain the lyrics from the artist, in this case Taylor Swift, by scraping them from Genius.com: 
+### 2. Obtain the lyrics from the artist, in this case Taylor Swift, by scraping them from Genius.com: 
 <br/><br/> To do so, the Python package lyricsgenius is used, which is a client for the Genius.com API. First, a Genius.com free account needs to be created in order to get an access token required to access the Genius API. <br/><br/> In this case, we search by artist and we exclude those songs which contain the terms in the excluded list. The songs will be returned and written to a JSON file with all the associated data such as album, release date, song title, etc. 
 <br/><br/>
 #### 3. Create Pandas dataframe, clean data and tokenize lyrics: 
