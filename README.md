@@ -13,4 +13,5 @@
 <br/><br/>
 4. Create visualizations of the song lyrics: 
 <br/><br/> In particular, produce horizontal barplots of n-grams for the most common words used in all the songs and for each of the full studio albums (note that stopwords have been removed). A n-gram is a contiguous sequence of n words from a given document, which in this case the document consists of the lyrics of a song. In this project, I will be looking at one word (unigrams), two words (bigrams) and three words (trigrams) n-grams. <br/><br/> The barplots of the n-grams (see below) are very interesting as they show that some albums have more repetition of words than others. For instance, 1989, which is the album that leans the most into the pop genre, has the highest repetition of words in terms of individual words, bigrams and trigrams. This makes sense as pop songs tend to have catchy and repetitive choruses. 
+
 ### here
