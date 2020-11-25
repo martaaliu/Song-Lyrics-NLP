@@ -16,6 +16,7 @@ In particular, produce horizontal barplots of n-grams for the most common words 
 <br/>
 
 Barplots of top unigrams per album:
+
 <img src="https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Unigrams.png?raw=true" width="720">
 <br/>
 
