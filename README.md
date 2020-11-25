@@ -1,5 +1,6 @@
 # Song-Lyrics-NLP
 ## Analysis of Taylor Swift Song Lyrics Using Natural Language Processing
+<br/>
 
 ### This project is split into 4 parts:
 
