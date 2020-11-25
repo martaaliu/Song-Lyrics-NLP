@@ -27,4 +27,4 @@ Barplots of top bigrams per album:
 
 Barplots of top trigrams per album:
 
-<img src="https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Trigrams.png?raw=true" width="240">
+<img src="https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Trigrams.png?raw=true" width="480">
