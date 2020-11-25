@@ -2,7 +2,7 @@
 ## Analysis of Taylor Swift Song Lyrics Using Natural Language Processing
 <br/>
 
-### This project is split into 4 parts:
+### This project is split into 4 parts: <br/>
 
 #### 1. Import all the necessary packages. <br/><br/>
 
