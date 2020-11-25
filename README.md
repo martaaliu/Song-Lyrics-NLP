@@ -2,7 +2,7 @@
 ## Analysis of Taylor Swift Song Lyrics Using Natural Language Processing
 
 ### This project is split into 4 parts:
-<br/><br/>
+<br/>
 1. Import all the necessary packages.
 <br/><br/>
 2. Obtain the lyrics from the artist, in this case Taylor Swift, by scraping them from Genius.com. To do so, the Python package lyricsgenius is used, which is a client for the Genius.com API. First, a Genius.com free account needs to be created in order to get an access token required to access the Genius API. <br/>
