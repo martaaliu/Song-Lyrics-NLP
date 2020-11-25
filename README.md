@@ -13,12 +13,15 @@ First, import the JSON file and create a Pandas dataframe with the various impor
 
 #### 4. Create visualizations of the song lyrics: 
 In particular, produce horizontal barplots of n-grams for the most common words used in all the songs and for each of the full studio albums (note that stopwords have been removed). A n-gram is a contiguous sequence of n words from a given document, which in this case the document consists of the lyrics of a song. In this project, I will be looking at one word (unigrams), two words (bigrams) and three words (trigrams) n-grams. <br/><br/> The barplots of the n-grams (see below) are very interesting as they show that some albums have more repetition of words than others. For instance, 1989, which is the album that leans the most into the pop genre, has the highest repetition of words in terms of individual words, bigrams and trigrams. This makes sense as pop songs tend to have catchy and repetitive choruses. <br/><br/>
-
+<br/>
 Barplots of top unigrams per album:
-![Unigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Unigrams.png?raw=true)
 
+![Unigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Unigrams.png)
+<br/>
 Barplots of top bigrams per album:
-![Bigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Bigrams.png?raw=true)
 
+![Bigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Bigrams.png?raw=true)
+<br/>
 Barplots of top trigrams per album:
+
 ![Trigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Trigrams.png?raw=true)
