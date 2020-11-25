@@ -16,11 +16,11 @@ In particular, produce horizontal barplots of n-grams for the most common words 
 <br/>
 Barplots of top unigrams per album:
 
-![Unigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Unigrams.png)
+![Unigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Unigrams.png?raw=true = 24x48)
 <br/>
 Barplots of top bigrams per album:
 
-![Bigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Bigrams.png?raw=true)
+![Bigrams](https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Bigrams.png?raw=true | width=48)
 <br/>
 Barplots of top trigrams per album:
 
