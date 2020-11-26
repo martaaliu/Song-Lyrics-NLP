@@ -27,7 +27,7 @@ Barplots of top bigrams per album:
 Barplots of top trigrams per album:
 
 <img src="https://github.com/martaaliu/Song-Lyrics-NLP/blob/main/Images/Trigrams.png?raw=true" width="720">
-<br/><br/>
+<br/>
 
 #### 5. Produce word embeddings of the song lyrics with Word2vec: 
 The algorithm Word2vec from the Gensim library is used to create embeddings of the song lyrics. Once the model is trained, certain analysis can be performed such as finding the most similar words to a selected word. <br/><br/> This algorithm is very powerful, however, it needs a lot of input data. The dataset used contained only Taylor Swift lyrics, which, once cleaned, consisted of 3850 unique words. This is a very small dataset to train the model using Word2vec and, as such, the model did not perform that well.
